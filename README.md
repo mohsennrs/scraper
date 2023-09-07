@@ -1,2 +1,4 @@
 # scraper
-Scraper script
+Scraper script Daft.ie using Vuejs and Cypress.
+
+
